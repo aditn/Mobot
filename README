@@ -1,0 +1,4 @@
+Plan
+1. Get Arduino to Turn on LEDs at different powers (imitating motors)
+2. Define left, right, straight movement for direct drive
+3. Get RPi to command Arduino left, right, straight
